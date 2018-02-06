@@ -1,0 +1,10 @@
+[05-Feb-2018 23:04:06 UTC] PHP Parse error:  syntax error, unexpected 'img' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 11
+[05-Feb-2018 23:05:18 UTC] PHP Parse error:  syntax error, unexpected 'img' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 11
+[05-Feb-2018 23:16:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 31
+[05-Feb-2018 23:16:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 31
+[05-Feb-2018 23:18:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 31
+[05-Feb-2018 23:19:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 31
+[05-Feb-2018 23:31:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 27
+[05-Feb-2018 23:32:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '{' in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 28
+[05-Feb-2018 23:49:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 64
+[05-Feb-2018 23:49:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/dcohen/labs/lab2/index.php on line 64
