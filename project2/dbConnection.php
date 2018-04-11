@@ -1,7 +1,7 @@
 <?php
 
 function getDatabaseConnection() { //$dbname parameter
-mysql://:@/?reconnect=true
+mysql://b40fd45b582efa:a9453da8@/heroku_cd82f18b9512e4e?reconnect=true
 $host = "us-cdbr-iron-east-05.cleardb.net";
 $dbname = "heroku_cd82f18b9512e4e"; //$dbname
 $username = "b40fd45b582efa";     //root
