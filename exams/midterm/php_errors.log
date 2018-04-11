@@ -1,0 +1,36 @@
+[28-Mar-2018 17:14:34 UTC] PHP Warning:  include(../includes/dbConn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 3
+[28-Mar-2018 17:14:34 UTC] PHP Stack trace:
+[28-Mar-2018 17:14:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:14:34 UTC] PHP Warning:  include(): Failed opening '../includes/dbConn.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 3
+[28-Mar-2018 17:14:34 UTC] PHP Stack trace:
+[28-Mar-2018 17:14:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:14:34 UTC] PHP Fatal error:  Call to undefined function getConnection() in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 5
+[28-Mar-2018 17:14:34 UTC] PHP Stack trace:
+[28-Mar-2018 17:14:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:15:52 UTC] PHP Warning:  include(/dcohen/dbConn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 3
+[28-Mar-2018 17:15:52 UTC] PHP Stack trace:
+[28-Mar-2018 17:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:15:52 UTC] PHP Warning:  include(): Failed opening '/dcohen/dbConn.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 3
+[28-Mar-2018 17:15:52 UTC] PHP Stack trace:
+[28-Mar-2018 17:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:15:52 UTC] PHP Fatal error:  Call to undefined function getConnection() in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 5
+[28-Mar-2018 17:15:52 UTC] PHP Stack trace:
+[28-Mar-2018 17:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:18:33 UTC] PHP Warning:  include(/dcohen/dbConn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 3
+[28-Mar-2018 17:18:33 UTC] PHP Stack trace:
+[28-Mar-2018 17:18:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:18:33 UTC] PHP Warning:  include(): Failed opening '/dcohen/dbConn.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 3
+[28-Mar-2018 17:18:33 UTC] PHP Stack trace:
+[28-Mar-2018 17:18:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:18:33 UTC] PHP Fatal error:  Call to undefined function getConnection() in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 5
+[28-Mar-2018 17:18:33 UTC] PHP Stack trace:
+[28-Mar-2018 17:18:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:18:50 UTC] PHP Warning:  include(../includes/dbConn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 3
+[28-Mar-2018 17:18:50 UTC] PHP Stack trace:
+[28-Mar-2018 17:18:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:18:50 UTC] PHP Warning:  include(): Failed opening '../includes/dbConn.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 3
+[28-Mar-2018 17:18:50 UTC] PHP Stack trace:
+[28-Mar-2018 17:18:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0
+[28-Mar-2018 17:18:50 UTC] PHP Fatal error:  Call to undefined function getConnection() in /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php on line 5
+[28-Mar-2018 17:18:50 UTC] PHP Stack trace:
+[28-Mar-2018 17:18:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/dcohen/exams/midterm/practice/practice_program2.php:0

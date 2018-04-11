@@ -1,0 +1,10 @@
+[28-Mar-2018 22:04:09 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ubuntu/workspace/dcohen/exams/midterm/program2.php on line 45
+[28-Mar-2018 22:15:41 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ubuntu/workspace/dcohen/exams/midterm/program2.php on line 45
+[28-Mar-2018 22:17:11 UTC] PHP Parse error:  syntax error, unexpected 'firstName' (T_STRING) in /home/ubuntu/workspace/dcohen/exams/midterm/program2.php on line 51
+[28-Mar-2018 22:17:13 UTC] PHP Parse error:  syntax error, unexpected 'firstName' (T_STRING) in /home/ubuntu/workspace/dcohen/exams/midterm/program2.php on line 51
+[28-Mar-2018 22:25:28 UTC] PHP Parse error:  syntax error, unexpected 'firstName' (T_STRING) in /home/ubuntu/workspace/dcohen/exams/midterm/program2.php on line 51
+[28-Mar-2018 22:25:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/dcohen/exams/midterm/program1.php on line 75
+[28-Mar-2018 22:26:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/dcohen/exams/midterm/program1.php on line 75
+[28-Mar-2018 22:26:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/dcohen/exams/midterm/program1.php on line 75
+[02-Apr-2018 06:22:05 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/dcohen/exams/midterm/program1.php on line 73
+[02-Apr-2018 06:22:09 UTC] PHP Parse error:  syntax error, unexpected 'firstName' (T_STRING) in /home/ubuntu/workspace/dcohen/exams/midterm/program2.php on line 51

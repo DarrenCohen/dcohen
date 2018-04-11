@@ -1,64 +1,25 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Lab 2: 777 Slot Machine </title>
-        <meta charset="utf-8"/>
+        <title> 777 Slot Machine </title>
     </head>
     <body>
-        
         <?php
         
-        function displaySymbol(){
-            if(randomValue == 0) {
-            echo "<img src='img/seven.png' width='70' alt='seven' title='seven'>";
-        }else if(randomValue == 1) {
-            echo "<img src='img/cherry.png' width='70' alt='cherry' title='cherry'>";
+        for ($i=1; $i<4; $i++){
+            ${"randomValue" . $i} = rand(0, 2);
+        }
+        
+        function displaySymbol($randomValue){
+        if ($randomValue == 0){
+            echo '<img src="img/seven.png" alt="seven" title="Seven" width="70" />';
+        } else if ($randomValue == 1){
+            echo '<img src="img/cherry.png" alt="cherry" title="Cherry" width="70" />';
         } else {
-            echo "<img src='img/orange.png' width='70' alt='orange' title='orange'>";
+            echo '<img src="img/lemon.png" alt="lemon" title="Lemon" width="70" />';
         }
         }
-        
-        $randomValue = rand(0, 3);
-        echo $randomValue;
-        
-        
-        
-        for($i=0; $i<3; $i++) {
-        function displaySymbol(){
-        }
-        
-       //$symbol = "seven";
-        echo "<img src='img/$symbol.png' width='70' alt='$symbol' title='$symbol'>";
-        
-        
-        //$symbol = "cherry";
-        echo "<img src='img/$symbol.png' width='70' alt='$symbol' title='$symbol'>";
-        
-        //$symbol = "orange";
-        echo "<img src='img/$symbol.png' width='70' alt='$symbol' title='$symbol'>";
-        
-        switch ($randomValue) {
-            case 0: 
-            $symbol = "seven";
-            break;
-            case 1:
-            $symbol = "cherry";
-            break;
-            case 2: 
-            $symbol = "orange";
-            break;
-        }
-        
         
         ?>
-
-
-<!--
-        <img src="img/lemon.png" width="70" alt="Lemon" title="Lemon">
-        <img src="img/cherry.png" width="70" alt="Cherry" title="Cherry">
-        <img src="img/orange.png" width="70" alt="Orange" title="Orange">
-                        
-                        -->
-
     </body>
 </html>
